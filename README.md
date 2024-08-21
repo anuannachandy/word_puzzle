@@ -26,8 +26,8 @@ This project is a simple back-end service built with Laravel 9 and PHP 8.0 that 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/anuannachandy/Word-puzzle.git
-   cd Word-puzzle
+   git clone https://github.com/anuannachandy/word_puzzle.git
+   cd word_puzzle
    composer install
 
 # database-seeding
